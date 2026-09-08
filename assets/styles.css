@@ -45,7 +45,7 @@ button { color: inherit; }
 .topbar { position: sticky; top: 0; z-index: 30; min-height: 72px; display: flex; align-items: center; gap: 2rem; padding: 0 max(24px, calc((100vw - 1180px) / 2)); background: color-mix(in srgb, var(--surface) 88%, transparent); border-bottom: 1px solid color-mix(in srgb, var(--line) 75%, transparent); backdrop-filter: blur(18px); }
 .brand { display: flex; align-items: center; gap: .7rem; text-decoration: none; margin-right: auto; line-height: 1.05; }
 .brand-logo-shell { display: flex; align-items: center; padding: .28rem .48rem; border-radius: 12px; background: #fff; box-shadow: inset 0 0 0 1px rgba(8, 26, 51, .08); }
-.brand-logo { display: block; width: clamp(54px, 5.6vw, 68px); height: auto; }
+.brand-logo { display: block; width: clamp(108px, 11.2vw, 136px); height: auto; }
 .brand small { display: block; max-width: 92px; color: var(--muted); font-size: .68rem; line-height: 1.15; }
 .topbar nav { display: flex; gap: 1.4rem; }
 .topbar nav a { text-decoration: none; color: var(--muted); font-size: .88rem; font-weight: 700; }
