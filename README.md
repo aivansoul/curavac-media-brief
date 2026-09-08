@@ -9,6 +9,7 @@ Le site est conçu pour GitHub Pages et ne nécessite aucun build :
 - `index.html` contient la structure et le contenu ;
 - `assets/styles.css` contient la présentation responsive ;
 - `assets/app.js` contient les interactions et la checklist locale ;
+- `assets/logo-curavac.png` est le logo officiel servi par `curavac.com` ;
 - `.nojekyll` désactive le traitement Jekyll.
 
 Les choix de checklist et le thème restent exclusivement dans le stockage local du navigateur.
